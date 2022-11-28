@@ -1,0 +1,9 @@
+Link do repositório no github:
+
+https://github.com/erik-monteiro/Uno
+
+Integrantes:
+Erik Monteiro
+Lucca Ianez
+
+O vídeo do projeto rodando se encontra no repositório também.
